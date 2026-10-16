@@ -1,0 +1,37 @@
+# Unity generated files
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+/MemoryCaptures/
+/Recordings/
+/recordings/
+# Local tools and supplied shared assets
+/.plastic/
+/DigiPhantStarter/
+/Assets/Elephant/
+/Assets/Elephant.meta
+**/.venv/
+**/__pycache__/
+*.py[cod]
+.DS_Store
+*.csproj
+*.sln
+*.slnx
+# Licensed skybox (not redistributable)
+/Assets/Allsky/
+/Assets/Allsky.meta
+*.unitypackage
+# Local-only working files
+/Backups/
+/Assets/DigiPhant/Scenes/DigiPhant_Before*
+*.zip
+/README_OLD.md
+/README_DRAFT.md
+/TEAM_HANDOFF.md
+/MERGE_CHANGES_SUMMARY.md
+/RENDER_PIPELINE_FIX.md
+/ignore.conf
