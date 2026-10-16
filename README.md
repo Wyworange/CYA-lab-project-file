@@ -12,7 +12,7 @@ to Unity over localhost. Nothing is sent online.
 | **P2** | Middle third | Face | Rearing up (open mouth), picking the apple (right-eye wink) or the banana (left-eye wink) |
 | **P3** | Right third | Hands | Grabbing and carrying the log (fists), sitting on the log (✌️) |
 
-Demo video: `<DRIVE LINK TO DEMO VIDEO>`
+Demo video: <https://youtu.be/TlLyExvj0r0>
 
 ---
 
